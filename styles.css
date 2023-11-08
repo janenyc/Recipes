@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+section{
+
+    display: flex;
+    justify-content: space-around;
+}
+div {
+    border: 1px solid black; 
+    flex: 0 0 auto; 
+    margin: 10px; 
+    text-align: center;
+  }
+
+  img {
+    width: 250px; 
+    height: auto; 
+    display: block; 
+    margin-bottom: 10px
+  }
